@@ -1,0 +1,29 @@
+body {
+  background-color: #ffa07a4a;
+
+}
+h1 {
+text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:60px
+
+}
+
+h2 {
+text-align: center;
+  color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size:40px
+}
+p {
+  color: red;
+  font-size: 20px
+}
+.button1 {
+color: DarkOrange
+}
+
+.boxed {  background-color: orange ;
+ padding: 10px ;
+ border: 1px solid green;
+}
