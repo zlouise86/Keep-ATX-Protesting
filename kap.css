@@ -1,11 +1,21 @@
 body {
-  background-color: #ffa07a4a;
+  background-image: url("protest.jpg");
+}
+.bkgIMG {
+  background-image: url("protest.jpg")
+opacity: 0.5;
 
 }
-h1 {
-text-align: center;
+
+/* .bckgrnd { background-image: url("protest.jpg");
+opacity: 0.2
+background-size: contain; */
+
+
+h1 { text-align:center;
+
   font-family: 'Josefin Sans', sans-serif;
-  font-size:60px
+  font-size:60px;
 
 }
 
@@ -13,17 +23,35 @@ h2 {
 text-align: center;
   color: black;
     font-family: 'Roboto', sans-serif;
-    font-size:40px
+    font-size:40px;
 }
 p {
   color: red;
-  font-size: 20px
+  font-size: 20px;
 }
 .button1 {
-color: DarkOrange
+color: blue;
+/* align: center; */
+border-radius: 40px;
+
 }
 
-.boxed {  background-color: orange ;
- padding: 10px ;
- border: 1px solid green;
+.txlaw {
+  background-color: #ffa50033 ;
+  padding: 10px ;
+  margin: 50px;
+ border-radius: 25px;
+  border: 1px solid brown;
+
 }
+
+.boxed {  background-color: #ffa50033 ;
+ padding: 10px ;
+ margin: 0px;
+border-radius: 25px;
+ border: 1px solid brown;
+}
+
+.firstbg {
+background-color: pink;
+border-radius: 25px;}
