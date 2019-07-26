@@ -2,6 +2,9 @@ body {
   background-image: url("protest.jpg");
   background-color: rgb(255, 255, 255, 0.5);
   background-blend-mode: lighten;
+  margin-left: 100px;
+  margin-right: 100px;
+
 }
 
 
@@ -11,19 +14,23 @@ background-size: contain; */
 
 
 h1 { text-align:center;
-  font-family: 'Josefin Sans', sans-serif;
+  /* font-family: 'Lobster'; */
   font-size:60px;
+  /* font-family: 'Darker Grotesque', sans-serif; */
+  font-family: 'Lobster', cursive;
 }
 
 h2 {
 text-align: center;
-  color: black;
-    font-family: 'Roboto', sans-serif;
+  color: #A10702;
+  font-family: 'Barriecito', cursive;
     font-size:40px;
 }
 p {
-  color: red;
+  color: darkred;
   font-size: 20px;
+  margin: 50px;
+
 }
 .button1 {
 color: blue;
@@ -33,9 +40,9 @@ border-radius: 40px;
 }
 
 .txlaw {
-  background-color: #ffa50033 ;
+  /* background-color: lightsalmon ; */
   padding: 10px ;
-  margin: 50px;
+  margin: 0px;
  border-radius: 25px;
   border: 1px solid brown;
 
@@ -50,7 +57,8 @@ border-radius: 25px;
 
 .firstbg {
 background-color: pink;
-border-radius: 25px;}
+border-radius: 25px;
+margin: 30px;}
 
 .center {
 display: block;
@@ -58,3 +66,19 @@ margin-left: auto;
 margin-right: auto;
 width: 15%;
 }
+
+article{ text-align: center;}
+
+.backgroundsecond {
+  background-color: #FBC47D;
+  border-radius: 25px;
+margin: 30px; }
+
+center {font-size: 20px;
+font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+
+}
+
+h3 {font-family: 'Signika', sans-serif;
+ }
