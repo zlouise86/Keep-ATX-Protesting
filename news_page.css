@@ -1,4 +1,34 @@
-
-article {
+body{
+  background-image:url("lalala.png");
+  background-color: rgb(255, 255, 255, 0.5);
+  background-blend-mode: lighten;
+  background-size: cover;
   text-align: center;
 }
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.boxed {  background-color: salmon ;
+ padding: 10px ;
+ margin: 50px;
+border-radius: 25px;
+ border: 1px solid brown;
+}
+
+
+/* .backg
+{background-color: salmon;
+margin: 0px;
+border-radius: 25px;
+margin-bottom: 0px;
+margin-top: -10px;
+} */
