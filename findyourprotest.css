@@ -1,0 +1,32 @@
+iframe {
+align: center;
+}
+
+body {
+  background-image: url("1.jpg");
+  align-items: center;
+  /* background-blend-mode: lighten; */
+
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: white;
+}
+h3
+{
+  text-align: center;
+color: #F98108;
+}
+
+iframe {
+  align-items: center;
+  align-content: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+/* iframe {
+
+  object-position: center;
+} */
