@@ -7,10 +7,10 @@
 
 
 body {
-  background-image: url("car.jpg");
+  background-image: url("easy.jpg");
   background-color: rgb(255, 255, 255, 0.5);
   background-blend-mode: lighten;
-  background-size: cover;
+  background-size: contain;
 }
 
 h1 {
